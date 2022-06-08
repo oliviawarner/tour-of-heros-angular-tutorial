@@ -1,2 +1,2 @@
-# tour-of-heros-angular-tutorial
-Tour of Heros angular project turorial
+# Tour of Heros - Angular Tutorial
+https://angular.io/tutorial
